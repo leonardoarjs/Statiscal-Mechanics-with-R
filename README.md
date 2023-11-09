@@ -11,3 +11,5 @@ It's about the exercises that I have needed solve for the assessment process of 
 Este projeto está desalibilitado.
 
 new line
+
+comando fetch
